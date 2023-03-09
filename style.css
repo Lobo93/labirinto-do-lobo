@@ -10,13 +10,13 @@ body {
 	display: inline-flex;
 	justify-content: space-between;
 	align-items: center;
-	width: 85%;
-	max-width: 510px;
+	width: 90%;
+	max-width: 560px;
 }
 
 pre {
 	font-family: 'Courier New', monospace;
-	font-size: 5.4vw;
+	font-size: 5.2vw;
 	line-height: 0.58;
 	letter-spacing: -1px
 }
