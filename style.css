@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	text-align: center;
-	font-family: sans-serif;
+	font-family: 'Arial', sans-serif;
 }
 
 .flex {
@@ -13,7 +13,7 @@ body {
 }
 
 pre {
-	font-family: monospace;
+	font-family: 'Courier New', monospace;
 	font-size: 5.4vw;
 	line-height: 0.54;
 	letter-spacing: -1px
